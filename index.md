@@ -23,7 +23,7 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 <div class="wraptocenter">
-  <img src="images/ner.PNG" alt="hi" class="inline"/>
+  <img src="images/ner.PNG" align="middle" class="inline"/>
 </div>
 
 
