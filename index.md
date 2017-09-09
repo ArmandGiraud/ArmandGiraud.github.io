@@ -5,7 +5,7 @@
 - Named Entity Recognition, a NLP task I worked on during my internship.
 
 <a href = "ner">
-<center><img src="images/ner.PNG" align="middle",alt ="image png"/><center/>
+<img src="images/ner.PNG" align="middle",alt ="image.png"/>
 <a/>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
