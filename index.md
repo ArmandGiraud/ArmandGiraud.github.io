@@ -22,9 +22,8 @@ Syntax highlighted code block
 
 [Link](url) and 
 ```
-<div class="wraptocenter">
-  <img src="images/ner.PNG" align="middle" class="inline"/>
-</div>
+
+<img src="images/ner.PNG" align="middle"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
