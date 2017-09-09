@@ -5,8 +5,8 @@
 - Named Entity Recognition, a NLP task I worked on during my internship.
 
 <a href = "ner">
+![image](https://github.com/ArmandGiraud/ArmandGiraud.github.io/blob/master/images/ner.PNG)
 <img src="/images/ner.PNG" alt="HTML5 Icon" style="width:328px;height:128px;",align ="center">
 <a/>
 
-![image](https://github.com/ArmandGiraud/ArmandGiraud.github.io/blob/master/images/ner.PNG)
 
