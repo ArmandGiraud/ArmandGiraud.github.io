@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 ```
-<p style="text-align:center;"><img src="images/ner.PNG" align="middle"/><p/>
+<center><img src="images/ner.PNG" align="middle"/><center/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
