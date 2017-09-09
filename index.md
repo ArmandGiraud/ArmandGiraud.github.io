@@ -22,7 +22,8 @@ Syntax highlighted code block
 
 [Link](url) and 
 ```
-<img src="images/ner.png" alt="hi" class="inline"/>
+<img src="images/ner.PNG" alt="hi" class="inline"/>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
