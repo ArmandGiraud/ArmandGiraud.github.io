@@ -5,5 +5,5 @@
 - Named Entity Recognition, a NLP task I worked on during my internship.
 
 <a href = "ner">
-<img src="images/ner.PNG" align="middle",alt ="image.png"/>
+![useful_image](images/ner.PNG")
 <a/>
