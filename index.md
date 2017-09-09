@@ -22,7 +22,10 @@ Syntax highlighted code block
 
 [Link](url) and 
 ```
-<img src="images/ner.PNG" alt="hi" class="inline"/>
+<div class="wraptocenter">
+  <img src="images/ner.PNG" alt="hi" class="inline"/>
+</div>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
