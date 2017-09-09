@@ -7,3 +7,5 @@
 <a href = "ner">
 ![useful_image](https://github.com/ArmandGiraud/ArmandGiraud.github.io/blob/master/images/ner.PNG)
 <a/>
+
+<img src="/images/ner.PNG" alt="HTML5 Icon" style="width:128px;height:128px;">
