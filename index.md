@@ -1,4 +1,4 @@
-## Blog Page
+## SelectUp HomePage
 
 ### This is a Blog about Data Science & Econometrics
 
