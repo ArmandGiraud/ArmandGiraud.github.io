@@ -1,29 +1,12 @@
 ## Blog Page
 
+### This is a Blog about Data Science & Econometrics
 
-### Markdown
+- Named Entity Recognition, a NLP task I worked on during my internship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
-```
-<center><img src="images/ner.PNG" align="middle"/><center/>
-
+<a href = "ner">
+<center><img src="images/ner.PNG" align="middle",alt ="image png"/><center/>
+<a/>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
